@@ -1,14 +1,17 @@
-# Bienvenid@ a mi reposiotrio de proyectos personales <img src="wave.gif" alt="emoji" width="30px">
+# Bienvenid@ a mi repositorio de proyectos personales <img src="wave.gif" alt="emoji" width="30px">
 
 ![Banner de Ivaniel](banner.png)
 
-### En este repositorio encontraras mis proyectos personales de diferentes lenguajes y framework, como frontend y backend.
+### En este repositorio encontraras mis proyectos personales de diferentes lenguajes y framework, tanto de frontend y backend.
 
 ## 📬 Contacto
 [![Linkedin](https://img.shields.io/badge/Linkedin-%235865F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Portafolio](https://img.shields.io/badge/Portafolio-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivaniel.dz/)
+<!--
+[![Gmail](https://img.shields.io/badge/Gmail-%23F24E1E.svg?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/IVAN13L/)
-
+-->
 
 ## 💻 Tecnologias
 ### Frontend
