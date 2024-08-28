@@ -5,12 +5,11 @@
 ### En este repositorio encontraras mis proyectos personales de diferentes lenguajes y framework, tanto de frontend y backend.
 
 ## 📬 Contacto
-[![Linkedin](https://img.shields.io/badge/Linkedin-%235865F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Portafolio](https://img.shields.io/badge/Portafolio-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivaniel.dz/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%235865F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanieldiaz)
+[![Portafolio](https://img.shields.io/badge/Portafolio-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ivanieldz.vercel.app/)
 <!--
 [![Gmail](https://img.shields.io/badge/Gmail-%23F24E1E.svg?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/IVAN13L/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivaniel.dz/)
 -->
 
 ## 💻 Tecnologias
